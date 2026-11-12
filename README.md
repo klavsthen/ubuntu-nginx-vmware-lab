@@ -1,1 +1,1 @@
-# ubuntu-nginx-vmware-lab
+![Configuration VMware](vmware-ubuntu-setup.png)
